@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554547502 source:f:\tai lieu\programming_c++\oop\lab1.4\space3d\main.cpp
+	"Point3D.h"
+
+1554547187 f:\tai lieu\programming_c++\oop\lab1.4\space3d\point3d.h
+	<iostream>
+	<math.h>
+
+1554547227 source:f:\tai lieu\programming_c++\oop\lab1.4\space3d\point3d.cpp
+	"Point3D.h"
+

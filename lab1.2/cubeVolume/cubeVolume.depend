@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446667744 source:f:\tai lieu\programming_c++\oop\lab1.2\cubevolume\main.cpp
+	<iostream>
+
+1554545679 source:f:\tai lieu\programming_c++\oop\lab1.2\cubevolume\cube.cpp
+	"cube.h"
+
+1554545658 f:\tai lieu\programming_c++\oop\lab1.2\cubevolume\cube.h
+	<iostream>
+

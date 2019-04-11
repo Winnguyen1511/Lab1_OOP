@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1554554177 source:f:\tai lieu\programming_c++\oop\lab1.5\student\main.cpp
+	"Student.h"
+
+1554554460 source:f:\tai lieu\programming_c++\oop\lab1.5\student\student.cpp
+	"Student.h"
+
+1554554476 f:\tai lieu\programming_c++\oop\lab1.5\student\student.h
+	<iostream>
+
+1554741963 source:f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\main.cpp
+	"ListStudent.h"
+
+1554736894 f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\student.h
+	<iostream>
+	<cstdlib>
+
+1554741671 source:f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\student.cpp
+	"Student.h"
+
+1554741727 source:f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\liststudent.cpp
+	"ListStudent.h"
+
+1554741238 f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\liststudent.h
+	"Student.h"
+	"sorting.h"
+
+1554730163 source:f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\sorting.cpp
+	"sorting.h"
+
+1554730355 f:\tai lieu\programming_c++\oop\lab1.5_official\lab1.5\lab1.5\student\sorting.h
+	"Student.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:f:\tai lieu\programming_c++\oop\lab1.6\bankaccount\main.cpp
+	<iostream>
+
+1554555440 source:f:\tai lieu\programming_c++\oop\lab1.6\bankaccount\bankaccount.cpp
+	"BankAccount.h"
+
+1554555478 f:\tai lieu\programming_c++\oop\lab1.6\bankaccount\bankaccount.h
+
